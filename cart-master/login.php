@@ -39,6 +39,7 @@ Please enter your username and password to log into the websites. If you do not 
 <?php
 if(isset($_GET['error'])) {
 echo "<strong>Incorrect username/password</strong>";
+  echo "<strong>pull on git  cart projct then after modified the login.php page</strong>";
 }
 ?>
 
