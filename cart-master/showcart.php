@@ -21,6 +21,7 @@
 		}
 	}
         echo "showcart modifid";
+        echo "again modified the showcart.php file";
 	require("footer.php");
 	
 ?>
